@@ -1,1 +1,2 @@
 base/configs/spawner_ui_config.yaml
+overlays/istio/params.yaml
