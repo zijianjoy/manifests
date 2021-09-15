@@ -1,0 +1,2 @@
+installs/katib-openshift/patches/service-serving-cert.yaml
+installs/katib-openshift/patches/webhook-inject-cabundle.yaml
